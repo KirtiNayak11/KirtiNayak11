@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Kirti Nayak</h1>
-<h3 align="center">Software Engineer (3+ yrs) transitioning to Data Science. Currently pursuing a Master's in CSE with a specialization in AI&ML at VIT Vellore. This repository showcases my projects as I explore the exciting world of data science and leverage my programming experience to build impactful solutions.</h3>
+<body>
+<p>Software Engineer (3+ yrs) transitioning to Data Science. Currently pursuing a Master's in CSE with a specialization in AI&ML at VIT Vellore. This repository showcases my projects as I explore the exciting world of data science and leverage my programming experience to build impactful solutions.</p>
+</body>
+</html>
 
-<img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.shutterstock.com%2Fimage-vector%2Fdata-science-banner-web-icon-260nw-2322632591.jpg&tbnid=Mc2l1A7tl20MmM&vet=12ahUKEwjauuOh4I-FAxVY9jgGHd_uA60QMygQegQIARBU..i&imgrefurl=https%3A%2F%2Fwww.shutterstock.com%2Fimage-vector%2Fdata-science-banner-web-icon-computer-2322632591&docid=JqB_H5INLxvlqM&w=900&h=280&itg=1&q=animated%20coding%20gif%20for%20data%20science&hl=en&ved=2ahUKEwjauuOh4I-FAxVY9jgGHd_uA60QMygQegQIARBU" alt="Data Science Banner" width="500" align="right">
-
-
-- 📫 How to reach me **kirtinayak11@gmail.com**
+<img src="https://miro.medium.com/v2/resize:fit:786/format:webp/1*Jwt-NggFZflXNmkndLYLJA.gif" alt="Data Science Banner" width="1000" align="center">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
