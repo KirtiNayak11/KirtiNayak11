@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋</h1>
+<h1 align="center">Hello 👋</h1>
 <body>
 <p>I'm Kirti Nayak, formerly a software engineer with 3+ years of experience transitioning into data science.  This repository showcases my projects as I explore the exciting world of data science and leverage my programming expertise to build impactful solutions.</p>
 </body>
