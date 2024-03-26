@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm Kirti Nayak</h1>
+<h1 align="center">Hi Developer 👋</h1>
 <body>
-<p>Software Engineer (3+ yrs) transitioning to Data Science. Currently pursuing a Master's in CSE with a specialization in AI&ML at VIT Vellore. This repository showcases my projects as I explore the exciting world of data science and leverage my programming experience to build impactful solutions.</p>
+<p>I'm Kirti Nayak, formerly a software engineer with 3+ years of experience transitioning into data science.  This repository showcases my projects as I explore the exciting world of data science and leverage my programming expertise to build impactful solutions.</p>
 </body>
 </html>
 
